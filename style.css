@@ -42,10 +42,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-list__item,.title {
+.task-list__item,
+.title {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
@@ -106,7 +108,10 @@
   justify-content: space-between;
   align-items: center;
 }
-.task-list__checkbox,.task-list__label,.task-list__input,.task-list__btn {
+.task-list__checkbox,
+.task-list__label,
+.task-list__input,
+.task-list__btn {
   vertical-align: middle;
 }
 
