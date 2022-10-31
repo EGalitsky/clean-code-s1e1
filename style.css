@@ -13,7 +13,7 @@
 .header__img {
   width: 100%;
 }
-.header .header__link {
+.header__link {
   font-family: fantasy, cursive;
 }
 
@@ -137,7 +137,7 @@
 }
 
 /* Completed */
-.task-list__label_complited {
+.task-list__item_complited .task-list__label {
   text-decoration: line-through;
   color: #888;
 }
