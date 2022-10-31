@@ -30,7 +30,8 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.add-task__input {
+.input,
+.task-list__label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -72,7 +73,7 @@
   margin: 0;
   text-transform: uppercase;
 }
-.task-list__input {
+.input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
