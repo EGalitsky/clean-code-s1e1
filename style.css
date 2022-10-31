@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.header img {
+.header__img {
   width: 100%;
 }
 .header .header__link {
@@ -142,11 +142,11 @@
   display:none
 }
 
-.task-list__item_edit input[type=text] {
+.task-list__item_edit .task-list__input {
   display:inline-block;
   width:224px
 }
 
-.task-list__item_edit label {
+.task-list__item_edit .task-list__label {
   display:none;
 }
